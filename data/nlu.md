@@ -54,3 +54,10 @@
 - are you a human?
 - am I talking to a bot?
 - am I talking to a human?
+
+## intent:time_of_day
+- what time is it?
+- time?
+- tell me the time
+- can you tell me the time?
+- what is the time?

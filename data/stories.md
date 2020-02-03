@@ -29,3 +29,7 @@
 ## bot challenge
 * bot_challenge
   - utter_iamabot
+
+## time of day path
+* time_of_day
+  - utter_time
